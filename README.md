@@ -12,6 +12,12 @@
   <a href="mailto:alainphan09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://firedragonal.github.io/CV/">
+    <img src="https://img.shields.io/badge/CV-Voir%20en%20ligne-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="https://firedragonal.github.io/CV/">
+    <img src="https://img.shields.io/badge/CV-Télécharger%20PDF-1E40AF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
 </p>
 
 ---
