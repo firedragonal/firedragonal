@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alain-phan">
+  <a href="https://linkedin.com/in/alain-phan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:alainphan09@gmail.com">
+  <a href="mailto:alainphan09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://firedragonal.github.io/CV/">
+  <a href="https://firedragonal.github.io/CV/" target="_blank">
     <img src="https://img.shields.io/badge/CV-Voir%20en%20ligne-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
